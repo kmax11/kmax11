@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on  full stack apps with Django & React<br>👯 I’m looking to collaborate exciting full-stack web projects, especially those using React, Django REST, or Golang.<br>🤝 Open to collaboration on meaningful tech projects<br>💬 Ask me about React, Django (with or without REST), system integration, or building fast MVPs.<br>
+#  **About Me**:
+🔭 I’m currently working on  full stack apps with Django & React<br>👯 I’m looking to collaborate exciting full-stack web projects, especially those using React, Django REST, or Golang.<br>🤝 Open to collaboration on meaningful tech projects<br>💬 Ask me about React,  Django (with or without REST), system integration, or building fast MVPs.<br>
 
 
 ## 🌐 Socials:
